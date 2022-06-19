@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moaz-ze69
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning mobile application development
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on grocery solutions
 - 📫 mail me at i.moaz.ze69@gmail.com
 
