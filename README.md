@@ -1,10 +1,206 @@
-- 👋 Hi, I’m @moaz-ze69
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Blockchain Stack
-- 💞️ I’m looking to collaborate on technical solutions
-- 📫 mail me at moaz.dev.404@gmail.com
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://github.com/moaz-ze69?tab=repositories"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
 
-<!---
-moaz-ze69/moaz-ze69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hello <img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Muhammad Moaz Ahmed</h1>
+
+<h3 align="center">A Passionate Full Stack MERN Developer from Pakistan</h3>
+
+<h4>Accomplished Full Stack Developer with 2+ years of experience in designing and developing high-performance, responsive web applications, and Mobile applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack and React native. Proficient in leveraging cutting-edge front-end and back-end technologies to optimize application performance and deliver seamless user experiences. 
+Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful APIs, and GraphQL. Skilled in implementing reusable React components, server-side rendering with Next.js, and integrating with third-party services like Stripe and Sanity CMS. Recognized for strong collaboration abilities, and successfully leading cross-functional teams. Committed to continuous learning and staying ahead of industry trends.
+
+</h4>
+
+<img align="right" alt="GIF" src="https://github.com/moaz-ze69/moaz-ze69/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br> <br>
+
+- 🌍 I'm based in Lahore, Pakistan
+- 💻 Full Stack Developer
+- 🔭 I’m currently working on MERN STACK DEVELOPMENT
+- 🌱 I’m currently learning Data Structure & Algorithms
+- 👯 I’m looking to collaborate on Web Development & DSA
+- 🤔 I’m looking for help with Machine Learning
+- ⚡ Empowering eCommerce Businesses
+- 🌀 Agile & Scrum methodologies: Delivering results timely and effectively.
+- 🗣 Excellent communicator, ensuring seamless integration of tech & business objectives.
+- 👪 Mentoring juniors to achieve their full potential.
+- ⏱ An embodiment of punctuality, precision, and dedication.
+- ✉️ You can contact me at moaz.dev.404@gmail.com
+- 📱 +923071601809 <br> <br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/moaz_ze69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-moaz-ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/16KgF28aue/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/moaz_ze69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/i_moaz_ze69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/moaz-ze69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
+  <a href="https://codepen.io/moaz-ze69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/31602662/muhammad-moaz-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
+</p><br>
+
+<h3 align="left">Languages and Tools:</h3>
+<table width="100">
+  <tr>
+  <td align='center' width="190">
+    <a href="https://github.com/moaz-ze69/HTML-Web-Development-"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/html5-original-wordmark.jpg"></a>
+    </td>
+    <td align='center' width="190">
+   <a href="https://github.com/moaz-ze69/CSS-Web-Development-"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/css3-original-wordmark.jpg"></a>
+    </td>
+    <td align='center' width="190">
+  <a href="https://github.com/moaz-ze69/BootStrap"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/bootstrap-plain-wordmark.jpg"></a>
+    </td>
+     <td align='center' width="190">
+  <a href="https://github.com/moaz-ze69/TailWind-CSS"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/tailwinddd.png"></a>
+    </td>
+      <td align='center' width="190">
+<a href="https://github.com/moaz-ze69/sass"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/sass.png" ></a>
+    </td>
+  </tr>
+
+  <tr>
+  <td align='center' width="190">
+   <a  href="https://github.com/moaz-ze69/js"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/javascript-original.jpg"></a>
+    </td>
+    <td align='center' width="190">
+   <a href="https://github.com/moaz-ze69/jQuery"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/jQuery.png"></a>
+    </td>
+    <td align='center' width="190">
+ <a href="https://github.com/moaz-ze69/typeScript"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/typeScript.png"></a>
+    </td>
+     <td align='center' width="190">
+  <a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/contentful.png"></a>
+    </td>
+      <td align='center' width="190">
+<a href="https://github.com/moaz-ze69/react-js"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/react-1.png"></a>
+    </td>
+  </tr>
+
+   <tr>
+  <td align='center' width="190">
+   <a  href="https://github.com/moaz-ze69/React_MUI"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/material-ui.png"></a>
+    </td>
+    <td align='center' width="190">
+   <a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/chakra.png"></a>
+    </td>
+    <td align='center' width="190">
+ <a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/redux.png"></a>
+    </td>
+    <td align='center' width="190">
+   <a  href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/threejs.png"></a>
+    </td>
+    <td align='center' width="190">
+   <a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/auth-1.png"></a>
+    </td>
+  </tr>
+
+   <tr>
+     <td align='center' width="190">
+   <a  href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/next-js.png"></a>
+    </td>
+      <td align='center' width="190">
+   <a  href="https://github.com/moaz-ze69/node.js"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/node.png"></a>
+    </td>
+    <td align='center' width="190">
+   <a href="https://github.com/moaz-ze69/express.js"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/express-1.png"></a>
+    </td>
+    <td align='center' width="190">
+ <a href="https://github.com/moaz-ze69/mongodb"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/mongobd.png"></a>
+    </td>
+     <td align='center' width="190">
+  <a href="https://github.com/moaz-ze69/SQL-SERVER"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/sql.png"></a>
+    </td>
+  </tr>
+
+   <tr>
+     <td align='center' width="190">
+<a href="https://github.com/moaz-ze69/c-programming"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/c-original.jpg"></a>
+    </td>
+      <td align='center' width="190">
+  <a href="https://github.com/moaz-ze69/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/cplusplus-original.jpg"></a>
+    </td>
+      <td align='center' width="190">
+ <a href="https://github.com/moaz-ze69/JAVA"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/java-original.jpg"></a>
+    </td>
+      <td align='center' width="190">
+  <a href="https://github.com/moaz-ze69/Python"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/python-original.jpg"></a>
+    </td>
+      <td align='center' width="190">
+   <a href="https://github.com/moaz-ze69"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/git-scm-icon.jpg"></a>
+    </td>
+  </tr>
+
+   <tr>
+    <td align='center' width="190">
+<a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/firebase-icon.jpg"></a>
+    </td>
+  </tr>
+</table>
+
+<br><br> <br>
+
+ <h2><i>⚙️ Tools & Technologies </i></h2>
+ <p>
+❇ Programming Languages: ⚡JavaScript (ES6+), ⚡TypeScript <br>
+❇ Frameworks/Libraries: ⚡React, ⚡JQuery, ⚡Next.js, ⚡Next Auth.js, ⚡React Router, ⚡Material UI, ⚡Chakra UI, ⚡jQuery <br>
+❇ Back-end Technologies:⚡Node.js, ⚡Express.js, ⚡GraphQL, ⚡Stripe, ⚡Sanity CMS <br>
+❇ Mobile Development:⚡React Native, ⚡Expo <br>
+❇ State Management: ⚡Redux, ⚡Context API<br>
+❇ Testing: Unit Testing (⚡React Testing Library)<br>
+❇ API Integrations: ⚡JSON, ⚡REST API<br>
+❇ Databases:⚡MongoDB, ⚡Firebase<br>
+❇ Build Tools: ⚡Webpack<br>
+❇ Version Control: ⚡Github, ⚡Gitlab <br>
+❇ Operating Systems: ⚡Linux, ⚡Windows<br>
+❇ Markup and Styling: ⚡HTML, ⚡CSS, ⚡SCSS, ⚡Tailwind, ⚡Styled Components, ⚡Bootstrap<br>
+ </p>
+ <br><br> <br>
+<div class="highlight highlight-source-java notranslate position-relative overflow-auto"><pre><span class="pl-k">if</span> (<span class="pl-s1">codeWorking</span>){
+            <span class="pl-k">while</span> (<span class="pl-s1">codeQuality</span> &lt; <span class="pl-s1">perfectCode</span>){
+                <span class="pl-s1">codeQuality</span>++;
+            }
+        }
+<span class="pl-c">// - Muhammad Moaz Ahmed</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+// - Muhammad Moaz Ahmed" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div> <br> <br>
+
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/moaz-ze69">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moaz-ze69&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+  <a href="https://github.com/moaz-ze69">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moaz-ze69&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <a href="https://github.com/moaz-ze69">
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=moaz-ze69&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</a>
+</p>
+</p> <hr>
+
+<h4 dir="auto">📊 Monthly Coding Time</h4>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>
+DSA          63 hrs 26 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.96 %
+WEB          67 hrs 53 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   83.95 %
+Python       10 hrs 8 mins   🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.26 %
+JAVA         16 hrs 24 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.84 %
+C++          29 hrs 1 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.68 %
+text         2 hrs 21 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.15 %
+</code></pre></div>
+<br>
+
+<h2 dir="auto">Activity Graph</h2>
+
+[![Muhammad Moaz Ahmed github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moaz-ze69&theme=github-compact)](https://github.com/moaz-ze69)
