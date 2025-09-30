@@ -1,206 +1,322 @@
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://github.com/moaz-ze69?tab=repositories"><img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
+# 👨‍💻 Muhammad Moaz Ahmed | Full Stack Developer
 
-<h1 align="center">Hello <img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Muhammad Moaz Ahmed</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Hello%2C%20I'm%20Muhammad%20Moaz%20Ahmed;Full%20Stack%20Developer;JavaScript%20Enthusiast;Cloud%20Engineer" alt="Typing SVG" />
+</div>
 
-<h3 align="center">A Passionate Full Stack MERN Developer from Pakistan</h3>
+---
 
-<h4>Accomplished Full Stack Developer with 2+ years of experience in designing and developing high-performance, responsive web applications, and Mobile applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack and React native. Proficient in leveraging cutting-edge front-end and back-end technologies to optimize application performance and deliver seamless user experiences. 
-Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful APIs, and GraphQL. Skilled in implementing reusable React components, server-side rendering with Next.js, and integrating with third-party services like Stripe and Sanity CMS. Recognized for strong collaboration abilities, and successfully leading cross-functional teams. Committed to continuous learning and staying ahead of industry trends.
+<div align="center">
+  <h3>🚀 Passionate Full Stack Developer | Cloud Engineer | Open Source Contributor</h3>
 
-</h4>
+<p>
+    <strong>📍 Location:</strong> Lahore, Pakistan | 
+    <strong>💼 Current Role:</strong> Software Engineer at <strong>DEVWOLFZ</strong> | 
+    <strong>⏰ Experience:</strong> 5+ Years
+  </p>
 
-<img align="right" alt="GIF" src="https://github.com/moaz-ze69/moaz-ze69/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br> <br>
+<p>
+    <em>"Code is like humor. When you have to explain it, it's bad."</em> - Cory House
+  </p>
+</div>
 
-- 🌍 I'm based in Lahore, Pakistan
-- 💻 Full Stack Developer
-- 🔭 I’m currently working on MERN STACK DEVELOPMENT
-- 🌱 I’m currently learning Data Structure & Algorithms
-- 👯 I’m looking to collaborate on Web Development & DSA
-- 🤔 I’m looking for help with Machine Learning
-- ⚡ Empowering eCommerce Businesses
-- 🌀 Agile & Scrum methodologies: Delivering results timely and effectively.
-- 🗣 Excellent communicator, ensuring seamless integration of tech & business objectives.
-- 👪 Mentoring juniors to achieve their full potential.
-- ⏱ An embodiment of punctuality, precision, and dedication.
-- ✉️ You can contact me at moaz.dev.404@gmail.com
-- 📱 +923071601809 <br> <br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/moaz_ze69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-moaz-ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/16KgF28aue/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/moaz_ze69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/i_moaz_ze69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/moaz-ze69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
-  <a href="https://codepen.io/moaz-ze69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/31602662/muhammad-moaz-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-moaz-ahmed" height="30" width="40" /></a>
-</p><br>
+## 🎯 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<table width="100">
-  <tr>
-  <td align='center' width="190">
-    <a href="https://github.com/moaz-ze69/HTML-Web-Development-"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/html5-original-wordmark.jpg"></a>
-    </td>
-    <td align='center' width="190">
-   <a href="https://github.com/moaz-ze69/CSS-Web-Development-"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/css3-original-wordmark.jpg"></a>
-    </td>
-    <td align='center' width="190">
-  <a href="https://github.com/moaz-ze69/BootStrap"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/bootstrap-plain-wordmark.jpg"></a>
-    </td>
-     <td align='center' width="190">
-  <a href="https://github.com/moaz-ze69/TailWind-CSS"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/tailwinddd.png"></a>
-    </td>
-      <td align='center' width="190">
-<a href="https://github.com/moaz-ze69/sass"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/sass.png" ></a>
-    </td>
-  </tr>
+I'm a passionate **JavaScript-focused Full Stack Developer** with **5+ years of experience** specializing in building scalable applications and cloud infrastructure. My expertise lies in the **MERN stack** and modern JavaScript ecosystem, creating high-performance web applications that drive business success.
 
-  <tr>
-  <td align='center' width="190">
-   <a  href="https://github.com/moaz-ze69/js"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/javascript-original.jpg"></a>
-    </td>
-    <td align='center' width="190">
-   <a href="https://github.com/moaz-ze69/jQuery"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/jQuery.png"></a>
-    </td>
-    <td align='center' width="190">
- <a href="https://github.com/moaz-ze69/typeScript"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/typeScript.png"></a>
-    </td>
-     <td align='center' width="190">
-  <a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/contentful.png"></a>
-    </td>
-      <td align='center' width="190">
-<a href="https://github.com/moaz-ze69/react-js"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/react-1.png"></a>
-    </td>
-  </tr>
+### 🏆 **Most Used Language: JavaScript**
 
-   <tr>
-  <td align='center' width="190">
-   <a  href="https://github.com/moaz-ze69/React_MUI"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/material-ui.png"></a>
-    </td>
-    <td align='center' width="190">
-   <a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/chakra.png"></a>
-    </td>
-    <td align='center' width="190">
- <a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/redux.png"></a>
-    </td>
-    <td align='center' width="190">
-   <a  href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/threejs.png"></a>
-    </td>
-    <td align='center' width="190">
-   <a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/auth-1.png"></a>
-    </td>
-  </tr>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=005A9E" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2F5A3D" alt="Node.js"/>
+</div>
 
-   <tr>
-     <td align='center' width="190">
-   <a  href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/next-js.png"></a>
-    </td>
-      <td align='center' width="190">
-   <a  href="https://github.com/moaz-ze69/node.js"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/node.png"></a>
-    </td>
-    <td align='center' width="190">
-   <a href="https://github.com/moaz-ze69/express.js"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/express-1.png"></a>
-    </td>
-    <td align='center' width="190">
- <a href="https://github.com/moaz-ze69/mongodb"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/mongobd.png"></a>
-    </td>
-     <td align='center' width="190">
-  <a href="https://github.com/moaz-ze69/SQL-SERVER"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/sql.png"></a>
-    </td>
-  </tr>
+---
 
-   <tr>
-     <td align='center' width="190">
-<a href="https://github.com/moaz-ze69/c-programming"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/c-original.jpg"></a>
-    </td>
-      <td align='center' width="190">
-  <a href="https://github.com/moaz-ze69/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/cplusplus-original.jpg"></a>
-    </td>
-      <td align='center' width="190">
- <a href="https://github.com/moaz-ze69/JAVA"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/java-original.jpg"></a>
-    </td>
-      <td align='center' width="190">
-  <a href="https://github.com/moaz-ze69/Python"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/python-original.jpg"></a>
-    </td>
-      <td align='center' width="190">
-   <a href="https://github.com/moaz-ze69"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/git-scm-icon.jpg"></a>
-    </td>
-  </tr>
+## 🛠️ Tech Stack & Expertise
 
-   <tr>
-    <td align='center' width="190">
-<a href="#"><img src="https://github.com/moaz-ze69/moaz-ze69/blob/main/images/firebase-icon.jpg"></a>
-    </td>
-  </tr>
-</table>
+### 🔹 **Frontend Development**
 
-<br><br> <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=593D88" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=2C7A7B" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=0066CC" alt="Material-UI"/>
+</div>
 
- <h2><i>⚙️ Tools & Technologies </i></h2>
- <p>
-❇ Programming Languages: ⚡JavaScript (ES6+), ⚡TypeScript <br>
-❇ Frameworks/Libraries: ⚡React, ⚡JQuery, ⚡Next.js, ⚡Next Auth.js, ⚡React Router, ⚡Material UI, ⚡Chakra UI, ⚡jQuery <br>
-❇ Back-end Technologies:⚡Node.js, ⚡Express.js, ⚡GraphQL, ⚡Stripe, ⚡Sanity CMS <br>
-❇ Mobile Development:⚡React Native, ⚡Expo <br>
-❇ State Management: ⚡Redux, ⚡Context API<br>
-❇ Testing: Unit Testing (⚡React Testing Library)<br>
-❇ API Integrations: ⚡JSON, ⚡REST API<br>
-❇ Databases:⚡MongoDB, ⚡Firebase<br>
-❇ Build Tools: ⚡Webpack<br>
-❇ Version Control: ⚡Github, ⚡Gitlab <br>
-❇ Operating Systems: ⚡Linux, ⚡Windows<br>
-❇ Markup and Styling: ⚡HTML, ⚡CSS, ⚡SCSS, ⚡Tailwind, ⚡Styled Components, ⚡Bootstrap<br>
- </p>
- <br><br> <br>
-<div class="highlight highlight-source-java notranslate position-relative overflow-auto"><pre><span class="pl-k">if</span> (<span class="pl-s1">codeWorking</span>){
-            <span class="pl-k">while</span> (<span class="pl-s1">codeQuality</span> &lt; <span class="pl-s1">perfectCode</span>){
-                <span class="pl-s1">codeQuality</span>++;
-            }
-        }
-<span class="pl-c">// - Muhammad Moaz Ahmed</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - Muhammad Moaz Ahmed" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div> <br> <br>
+### 🔹 **Backend Development**
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=2C3E50" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=B91C3C" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=000000" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=000000" alt="JWT"/>
+</div>
 
-<p align="center">
-<a href="https://github.com/moaz-ze69">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moaz-ze69&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+### 🔹 **Databases & ORMs**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2E7D32" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E4D8C" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=B71C1C" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=660000" alt="Mongoose"/>
+</div>
+
+### 🔹 **DevOps & Cloud**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF8C00" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E88E5" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00BFA5" alt="Netlify"/>
+</div>
+
+### 🔹 **Tools & Collaboration**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=E64A19" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF5722" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=005A9E" alt="VS Code"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moaz-ze69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaz-ze69&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff&currStreakLabel=36BCF7" width="48%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaz-ze69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moaz-ze69&theme=tokyonight&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="48%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <h3>💼 Production Applications</h3>
+</div>
+
+### 🏢 **ProspectX** - Real Estate Management System
+
+> **🌐 Live Demo:** [prospectx.com](https://prospectx.com/)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2F5A3D" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2E7D32" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF8C00" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E88E5" alt="Docker"/>
+</div>
+
+**✨ Key Features:**
+
+- 🔍 Advanced property search with real-time filtering
+- 📊 Interactive analytics dashboard with charts
+- 🔐 JWT-based authentication & role-based authorization
+- 📱 Fully responsive PWA design
+- ⚡ Redis caching for high performance
+- 🔄 Real-time notifications with Socket.io
+
+---
+
+### 🏡 **Off Plan** - Property Management System
+
+> **🌐 Live Demo:** [offplan-dubai.com](https://offplan-dubai.com/)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=2C3E50" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E4D8C" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=B71C1C" alt="Redis"/>
+</div>
+
+**✨ Key Features:**
+
+- 🏗️ Comprehensive off-plan property management
+- 💳 Stripe payment integration with webhooks
+- 📈 Advanced investment tracking & analytics
+- 🌍 Multi-language support (i18n)
+- 🔄 Real-time updates with WebSockets
+- 📊 Custom reporting dashboard
+
+---
+
+### 🖨️ **PrintMeAll** - Corporate Identity Branding
+
+> **🌐 Live Demo:** [printmeall.ae](https://printmeall.ae/)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2F5A3D" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2E7D32" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white&labelColor=4CAF50" alt="AWS S3"/>
+</div>
+
+**✨ Key Features:**
+
+- 🎨 Integrated design tool with Canvas API
+- 📦 Advanced order management system
+- 💰 Dynamic pricing with real-time calculations
+- 📊 Inventory tracking & management
+- 🚚 Multi-carrier shipping integration
+- 📱 Mobile-first responsive design
+
+---
+
+### 🏨 **HospiPro** - Hotel Management System
+
+> **🌐 Live Demo:** [hospi-pro-frontend.vercel.app](https://hospi-pro-frontend.vercel.app/)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" alt="React"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=B91C3C" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E4D8C" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E88E5" alt="Docker"/>
+</div>
+
+**✨ Key Features:**
+
+- 🛏️ Smart room booking with availability calendar
+- 👥 CRM with guest relationship management
+- 💰 Revenue optimization & pricing strategies
+- 📊 Comprehensive business intelligence
+- 🔧 Maintenance & housekeeping tracking
+- 📱 Mobile app for staff management
+
+---
+
+## 💼 Professional Experience
+
+### **Senior Software Engineer** @ DEVWOLFZ
+
+_2023 - Present_
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript Expert"/>
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-36BCF7?style=for-the-badge&labelColor=1E88E5" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Team_Lead-Mentor-FF6B6B?style=for-the-badge&labelColor=E53935" alt="Team Lead"/>
+</div>
+
+**🎯 Key Responsibilities:**
+
+- 🚀 **Led development** of 4+ production applications serving 10K+ users
+- 👥 **Mentored** 5+ junior developers and conducted code reviews
+- 🔧 **Architected** scalable microservices solutions
+- 📈 **Optimized** application performance by 40%
+- 🚀 **Implemented** CI/CD pipelines reducing deployment time by 60%
+
+**🏆 Achievements:**
+
+- ✅ **Delivered** 15+ client projects on time and within budget
+- ✅ **Reduced** bug reports by 70% through improved testing practices
+- ✅ **Achieved** 85% code coverage with automated testing
+- ✅ **Optimized** database queries reducing load times by 50%
+
+---
+
+## 🎯 Core Competencies
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>🔄</b><br/>
+        <sub>Full Stack<br/>Development</sub>
+      </td>
+      <td align="center">
+        <b>☁️</b><br/>
+        <sub>Cloud<br/>Architecture</sub>
+      </td>
+      <td align="center">
+        <b>⚡</b><br/>
+        <sub>Performance<br/>Optimization</sub>
+      </td>
+      <td align="center">
+        <b>🔒</b><br/>
+        <sub>Security<br/>Implementation</sub>
+      </td>
+      <td align="center">
+        <b>👥</b><br/>
+        <sub>Team<br/>Leadership</sub>
+      </td>
+      <td align="center">
+        <b>🚀</b><br/>
+        <sub>Agile<br/>Methodologies</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 Impact Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>🚀</b><br/>
+        <sub><strong>15+</strong><br/>Projects Delivered</sub>
+      </td>
+      <td align="center">
+        <b>⚡</b><br/>
+        <sub><strong>40%</strong><br/>Performance Boost</sub>
+      </td>
+      <td align="center">
+        <b>🔒</b><br/>
+        <sub><strong>70%</strong><br/>Bug Reduction</sub>
+      </td>
+      <td align="center">
+        <b>📊</b><br/>
+        <sub><strong>85%</strong><br/>Code Coverage</sub>
+      </td>
+      <td align="center">
+        <b>👥</b><br/>
+        <sub><strong>5+</strong><br/>Developers Mentored</sub>
+      </td>
+      <td align="center">
+        <b>⏰</b><br/>
+        <sub><strong>60%</strong><br/>Faster Deployments</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-moaz-ahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/moaz-ze69">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moaz-ze69&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <a href="https://github.com/moaz-ze69">
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=moaz-ze69&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</a>
-</p>
-</p> <hr>
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/moaz_ze69">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="mailto:moaz.dev.404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+</div>
 
-<h4 dir="auto">📊 Monthly Coding Time</h4>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>
-DSA          63 hrs 26 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.96 %
-WEB          67 hrs 53 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   83.95 %
-Python       10 hrs 8 mins   🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.26 %
-JAVA         16 hrs 24 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.84 %
-C++          29 hrs 1 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.68 %
-text         2 hrs 21 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.15 %
-</code></pre></div>
-<br>
+---
 
-<h2 dir="auto">Activity Graph</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=moaz-ze69&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views"/>
 
-[![Muhammad Moaz Ahmed github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moaz-ze69&theme=github-compact)](https://github.com/moaz-ze69)
+<p><em>🚀 Thanks for visiting my profile! I'm always open to exciting opportunities and collaborations.</em></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&height=50&lines=Let's%20build%20something%20amazing%20together!%20%F0%9F%9A%80" alt="Let's build something amazing together!" />
+</div>
