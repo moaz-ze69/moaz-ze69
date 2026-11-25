@@ -216,7 +216,7 @@ _March 2022 – June 2024_
 
 ---
 
-### **Frontend Developer** @ Ezee Logix
+### **Frontend Developer** @ EzeeLogix
 
 _August 2020 – February 2022_
 
