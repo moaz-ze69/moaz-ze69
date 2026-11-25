@@ -24,7 +24,7 @@
 
 ## 🎯 About Me
 
-I'm a **Senior Full-Stack Engineer** with **6+ years of experience** building and scaling production SaaS, AI, healthcare, fintech, e-commerce, and marketplace platforms. I specialize in **React, TypeScript, Node.js/NestJS, PostgreSQL**, and cloud-native architecture — with end-to-end ownership across frontend, APIs, databases, authentication, integrations, infrastructure, and CI/CD.
+I'm a **Senior Full-Stack Engineer** with **6+ years of experience** building and scaling production SaaS, AI, healthcare, fintech, e-commerce, and marketplace platforms. I specialize in **React, TypeScript, Node.js/NestJS, PostgreSQL**, and cloud-native architecture - with end-to-end ownership across frontend, APIs, databases, authentication, integrations, infrastructure, and CI/CD.
 
 I've shipped multi-tenant SaaS, AI/LLM and RAG systems, real-time products, payments, and security-focused architectures across healthcare, nonprofit fundraising, legal fintech, luxury commerce, veterinary telehealth, and AI-powered e-commerce.
 
@@ -115,7 +115,7 @@ I've shipped multi-tenant SaaS, AI/LLM and RAG systems, real-time products, paym
   <h3>💼 Production work from my CV</h3>
 </div>
 
-### 🏥 **MediPyxis** — Wound-Care EMR & Practice OS
+### 🏥 **MediPyxis** - Wound-Care EMR & Practice OS
 
 > **🌐 Live:** [medipyxis.com](https://medipyxis.com/) · HealthTech · React 18 · TypeScript · Vite PWA · Supabase/PostgreSQL · AWS
 
@@ -128,7 +128,7 @@ I've shipped multi-tenant SaaS, AI/LLM and RAG systems, real-time products, paym
 
 ---
 
-### 💝 **fundraiz** — AI-Powered Nonprofit CRM & Fundraising
+### 💝 **fundraiz** - AI-Powered Nonprofit CRM & Fundraising
 
 > **🌐 Live:** [fundraiz.ai](https://fundraiz.ai/) · React · TypeScript · Supabase · Stripe · OpenAI
 
@@ -141,7 +141,7 @@ I've shipped multi-tenant SaaS, AI/LLM and RAG systems, real-time products, paym
 
 ---
 
-### 🐾 **ZooDoc** — Veterinary Telehealth & Pet-Care Marketplace
+### 🐾 **ZooDoc** - Veterinary Telehealth & Pet-Care Marketplace
 
 > **🌐 Live:** [zoodoc.org](https://zoodoc.org/) · Pet Healthcare / Telehealth · React · Express · MongoDB · Expo · Stripe · 100ms · Firebase
 
@@ -154,7 +154,7 @@ I've shipped multi-tenant SaaS, AI/LLM and RAG systems, real-time products, paym
 
 ---
 
-### 🛍️ **Kaido AI** — White-Label AI Sales Associate
+### 🛍️ **Kaido AI** - White-Label AI Sales Associate
 
 > **🌐 Live:** [getkaido.ai](https://getkaido.ai/) · Fashion E-commerce SaaS · React · Express · MongoDB · OpenAI GPT-4o-mini · Stripe · AWS EC2
 
@@ -167,7 +167,7 @@ I've shipped multi-tenant SaaS, AI/LLM and RAG systems, real-time products, paym
 
 ---
 
-### ⚖️ **ClientAccount** — Legal Client-Funds Platform
+### ⚖️ **ClientAccount** - Legal Client-Funds Platform
 
 > **🌐 Live:** [clientaccount.co](https://clientaccount.co/) · LegalTech / FinTech · React 18 · Redux Toolkit · Express · PostgreSQL · Redis
 
@@ -180,7 +180,7 @@ I've shipped multi-tenant SaaS, AI/LLM and RAG systems, real-time products, paym
 
 ---
 
-### 💎 **Authentic Detective** — Luxury Authentication Platform
+### 💎 **Authentic Detective** - Luxury Authentication Platform
 
 > **🌐 Live:** [authenticdetective.com](https://authenticdetective.com/) · Luxury Resale / Anti-Counterfeit · React 19 · Vite · Laravel API · AWS S3 · Braintree/PayPal
 
